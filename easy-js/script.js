@@ -27,9 +27,3 @@ for (var i=0; i<newScores.length; i++){
   }
 }
 
-
-
-
-console.log(testy[0].username);
-const newTest = testy[0].score;
-console.log(newTest);
